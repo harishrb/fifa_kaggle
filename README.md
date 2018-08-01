@@ -1,4 +1,4 @@
-# FIFA 2018 World Cup Man of the Match Prediction
+# FIFA 2018 World Cup - Man of the Match Prediction
 
 #### Contributors to the project
 This project carries combined contributions of [Harish Badseshi](https://github.com/harishrb) and [Keith Mertan](https://github.com/kmertan).
