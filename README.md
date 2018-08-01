@@ -1,5 +1,8 @@
 # FIFA 2018 World Cup Man of the Match Prediction
 
+#### Contributors to the project
+This project carries combined contributions of [Harish Badseshi](https://github.com/harishrb) and [Keith Mertan](https://github.com/kmertan).
+
 ## Overview
 Training and testing different models on FIFA 2018 World Cup data to predict Man of the Match. 
 
@@ -24,9 +27,3 @@ You can use this project direct opening the jupyter notebook **fifa_kaggle.ipynb
 
 ## License
 The source code used to format and display the content of this project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
-
-
-### Contributors to the project
-This project carries combined contributions of [Harish Badseshi](https://github.com/harishrb) and [Keith Mertan](https://github.com/kmertan).
-
-
