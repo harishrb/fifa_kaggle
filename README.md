@@ -23,7 +23,7 @@ Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html
 You can use this project direct opening the jupyter notebook **fifa_kaggle.ipynb**.
 
 ## License
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://opensource.org/licenses/mit-license.php), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The underlying source code used to format and display the content of this project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
 
 
