@@ -16,7 +16,7 @@ Training and testing different models on FIFA 2018 World Cup data to predict Man
 Install missing dependencies using [pip](https://pypi.org/project/pip/).
 
 ## Dataset used
-FIFA 2018 World Cup dataset is used for this project. Dataset is freely available on Kaggle. 
+FIFA 2018 World Cup dataset is used for this project. Dataset is publicly available on Kaggle. 
 Download the dataset from [Kaggle](https://www.kaggle.com/mathan/fifa-2018-match-statistics).
 
 ## Usage
